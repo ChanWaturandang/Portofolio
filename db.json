@@ -1,0 +1,8 @@
+{
+    "users": [
+      { "id": 1, "firstName": "Chan" },
+      { "id": 2, "lastName": "Waturandang" },
+      { "id": 2, "email": "cwaturandang90@gmail.com" },
+      { "id": 2, "phoneNum": "082248739983" }
+    ]
+  }
